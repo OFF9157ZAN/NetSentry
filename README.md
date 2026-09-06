@@ -29,8 +29,8 @@ A lightweight, **zero-dependency** network discovery and port-scanning tool, bui
 ### 1. Clone or download the files
 
 ```bash
-git clone https://github.com/yourusername/netsentry.git
-cd netsentry
+git clone https://github.com/OFF9157ZAN/NetSentry.git
+cd Netsentry
 ```
 
 *(Or simply download `netsentry.py`, `requirements.txt`, `LICENSE`, and this `README.md` into a folder.)*
