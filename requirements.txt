@@ -1,0 +1,10 @@
+# NetSentry has no external dependencies.
+# It uses only the Python standard library (socket, subprocess,
+# concurrent.futures, ipaddress, argparse), so nothing needs to be
+# installed via pip.
+#
+# Requirement: Python 3.7+ (developed and tested on Python 3.12)
+#
+# This file is included for convention / packaging tools that expect
+# a requirements.txt to be present. Running `pip install -r requirements.txt`
+# is safe and will simply install nothing.
